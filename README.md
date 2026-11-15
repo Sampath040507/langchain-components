@@ -3,6 +3,24 @@ Hands-on examples and practical implementations of LangChain components, coverin
 
 This repository explores how models, embeddings, prompts, message history, chains, output parsers, and runnables work through small, easy-to-follow programs.
 
+## Technologies & Tools
+
+The following technologies, libraries, and tools are used across the examples in this repository.
+
+| Category | Technologies / Tools |
+|---|---|
+| Programming Language | Python |
+| Framework | LangChain |
+| Language Models | OpenAI Chat Models (`ChatOpenAI`) |
+| Embeddings | OpenAI Embeddings |
+| Prompt Engineering | `PromptTemplate`, `ChatPromptTemplate`, `MessagesPlaceholder` |
+| LangChain Components | Messages, Chains, Output Parsers, Runnables |
+| Similarity Measurement | Cosine Similarity |
+| User Interface | Streamlit |
+| Environment Management | Python Virtual Environments, `python-dotenv` |
+| Development Environment | Jupyter Notebook |
+
+
 ## Table of Contents
 
 - [Overview](#overview)
